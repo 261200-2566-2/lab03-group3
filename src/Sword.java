@@ -19,6 +19,7 @@ public class Sword {
 
     double getDamage(){
         return damage;
+
     }
 
 }

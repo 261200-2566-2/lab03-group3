@@ -11,6 +11,7 @@ public class Character {
     private double maxRunSpeed;
     private double currentRunSpeed;
 
+
     Sword currentSword=null;
     Shield currentShield=null;
 

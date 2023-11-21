@@ -19,5 +19,6 @@ public class Shield {
 
     double getDefense(){
         return def;
+
     }
 }

@@ -7,5 +7,6 @@ public class Main {
         c.EquipShield(new Shield(2));c.printStat();
 
 
+
     }
 }
