@@ -6,6 +6,7 @@ public class Sword {
     Sword(int swordLevel){
         this.swordLevel = swordLevel;
         damage = d*(1+0.1*swordLevel);
+
     }
 
     void swordLevelUp(){
